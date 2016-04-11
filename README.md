@@ -1,3 +1,3 @@
-# stages-widget
+# Stages Tracking Widget
 
-An NPM-installable version of the Stages order tracking widget.
+An NPM-installable version of the [Stages](https://getstages.com) order tracking widget.
