@@ -1,0 +1,12 @@
+{
+  "name": "stages-widget",
+  "dependencies": {
+    "bluebird": "registry:npm/bluebird#3.3.4+20160411163813",
+    "lodash": "registry:npm/lodash#4.0.0+20160416211519"
+  },
+  "devDependencies": {},
+  "ambientDependencies": {
+    "react": "github:DefinitelyTyped/DefinitelyTyped/react/react.d.ts#b9642fb8ac07f7164dc643ddd1fa99b58ae9be8b",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040"
+  }
+}

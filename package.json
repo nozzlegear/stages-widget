@@ -1,0 +1,25 @@
+{
+  "name": "stages-widget",
+  "version": "1.0.0",
+  "description": "An NPM-installable version of the Stages order tracking widget.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozzlegear/stages-widget.git"
+  },
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozzlegear/stages-widget/issues"
+  },
+  "homepage": "https://github.com/nozzlegear/stages-widget#readme",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "lodash": "^4.11.1",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
